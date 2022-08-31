@@ -2,7 +2,6 @@
 
 <p float="left">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=0ormyh4u70khmb2jhw08jg3ww&cover_image=true&theme=default&bar_color=ff1100&bar_color_cover=false" height=300>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ormyh4u70khmb2jhw08jg3ww" height=300>  
 </p>
 
 <!-- BEGIN CHESS BOARD -->
